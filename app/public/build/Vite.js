@@ -1,4 +1,4 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from 'Vite';
 import laravel from 'laravel-vite-plugin';
 import vue from 'vite-plugin-vue';
 
